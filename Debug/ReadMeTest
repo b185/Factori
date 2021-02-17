@@ -1,0 +1,15 @@
+Testing procedure:
+There are three files:
+  1) Tasks.txt
+  2) TasksPriorities.txt
+  3) TasksCompleted.txt
+  
+In order to initiate the program upon the tasks listed in "Tasks.txt" according to the priorities listed in "TasksPriorities.txt", one will enter the following command to
+Command Prompt:
+
+"Factori.exe <"Tasks.txt" path> <"TasksCompleted.txt" path> <Number of tasks> <number of threads - up to 63>"
+
+
+The solution will be written to the end of "Tasks.txt" when the program finishes running.
+"TasksCompleted.txt" is the same as the output "Tasks.txt" when a single thread is used and is meant for validation the program's operation, thus, 
+the order in which the tasks' solutions are enlisted in itis according to the priorities in "TasksPriorities.txt".
