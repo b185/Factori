@@ -1,0 +1,66 @@
+467290698
+14526870
+24640381
+672887658
+331608684
+118222512
+422889544
+679255734
+260223061
+549260125
+920949223
+913347541
+383405670
+945691195
+146447802
+403771867
+775633025
+527600333
+593806510
+805181725
+451583786
+905999378
+686822816
+400385938
+124874967
+732286951
+14743584
+306644155
+639059945
+471686817
+257418994
+672714272
+499670204
+The prime factors of 467290698 are: 2, 3, 7, 197, 56477
+The prime factors of 14526870 are: 2, 3, 5, 484229
+The prime factors of 24640381 are: 31, 103, 7717
+The prime factors of 672887658 are: 2, 3, 281, 317, 1259
+The prime factors of 331608684 are: 2, 2, 3, 11, 127, 131, 151
+The prime factors of 118222512 are: 2, 2, 2, 2, 3, 1009, 2441
+The prime factors of 422889544 are: 2, 2, 2, 7, 11, 53, 12953
+The prime factors of 679255734 are: 2, 3, 23, 4922143
+The prime factors of 260223061 are: 7, 29, 29, 44203
+The prime factors of 549260125 are: 5, 5, 5, 23, 191047
+The prime factors of 920949223 are: 11987, 76829
+The prime factors of 913347541 are: 913347541
+The prime factors of 383405670 are: 2, 3, 3, 3, 5, 463, 3067
+The prime factors of 945691195 are: 5, 283, 293, 2281
+The prime factors of 146447802 are: 2, 3, 3, 1913, 4253
+The prime factors of 403771867 are: 4139, 97553
+The prime factors of 775633025 are: 5, 5, 23, 23, 223, 263
+The prime factors of 527600333 are: 13, 47, 241, 3583
+The prime factors of 593806510 are: 2, 5, 11, 5398241
+The prime factors of 805181725 are: 5, 5, 2267, 14207
+The prime factors of 451583786 are: 2, 225791893
+The prime factors of 905999378 are: 2, 452999689
+The prime factors of 686822816 are: 2, 2, 2, 2, 2, 41, 523493
+The prime factors of 400385938 are: 2, 17, 11776057
+The prime factors of 124874967 are: 3, 7, 43, 138289
+The prime factors of 732286951 are: 11, 17, 547, 7159
+The prime factors of 14743584 are: 2, 2, 2, 2, 2, 3, 3, 51193
+The prime factors of 306644155 are: 5, 2671, 22961
+The prime factors of 639059945 are: 5, 23, 5557043
+The prime factors of 471686817 are: 3, 7, 1637, 13721
+The prime factors of 257418994 are: 2, 7, 18387071
+The prime factors of 672714272 are: 2, 2, 2, 2, 2, 73, 287977
+The prime factors of 499670204 are: 2, 2, 11, 11356141
