@@ -1,6 +1,5 @@
 /*
 ---------------------------------------------------------------------------------------------------------
-	Author - Bar Ben Ari ; 204034284
 
 	Project - "Factori" process for dicomposing numbers to their primal multipliers with multithreading
 
