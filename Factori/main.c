@@ -38,13 +38,13 @@ int main(int argc, char* argv[]) {
 
 
 	/* --------------------------------------------------------------------------------------------------------------------------- */
-	/*Validate that both the Tasks list text file & Tasks Priorities list text file paths are not null or '\0'					   */
-	/*Read the number of tasks from string & validate that the number is positive												   */
-	/*Read the number of threads needed to be activated for the message processing & validate that the number is positive		   */
+	/*Validate that both the Tasks list text file & Tasks Priorities list text file paths are not null or '\0'			*/
+	/*Read the number of tasks from string & validate that the number is positive							*/					   */
+	/*Read the number of threads needed to be activated for the message processing & validate that the number is positive		*/
 	/* --------------------------------------------------------------------------------------------------------------------------- */
 	if (STATUS_CODE_FAILURE == fetchAndValidateCommandLineArguments(argv[1], argv[2],
-																	argv[3], &numberOfTasks,
-																	argv[4], &numberOfThreads)) return 1;
+									argv[3], &numberOfTasks,
+									argv[4], &numberOfThreads)) return 1;
 
 
 	
