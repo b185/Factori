@@ -1,4 +1,4 @@
-# Operating Systems Course "Factori" assignment
+# "Factori" assignment
 Introduction to Operating Systems course at Tel-Aviv University Exercise 3 - "Factori"
 
 This is a C programming language application compiled in Windows environment with the Microsoft Visual Studios 2019 x86 compiler.
